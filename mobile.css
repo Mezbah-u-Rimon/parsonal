@@ -1,0 +1,156 @@
+
+
+@media screen and (max-width: 1100px){
+
+/*------------------hero section start-------------------*/
+  
+.hero-container {
+       height:auto;
+     
+}
+
+.row-container {     
+      height: auto;
+      padding:100px 20px;
+}
+
+.row-container div h3 {
+     padding-top:100px;
+
+}
+/*------------------hero section close-------------------*/
+
+
+
+
+
+
+/*-------------------------about section start-----------------------*/
+
+.about-row {
+      padding: 100px 20px;
+      text-align:center;
+}
+
+
+.about-row div h3 {
+      text-align:center ;
+      padding-top: 0px;
+      
+
+}
+
+.about-row div p {
+      text-align:center ;
+      padding-right:0px;
+
+}
+
+
+.about-row div button {
+     margin-bottom: 30px;
+}
+/*------------------------about section close-----------------------*/
+
+
+
+
+/*---------------------service section start---------------------------*/
+
+.service-row {
+      padding: 100px 20px ;
+      text-align: center;
+
+ }
+
+
+.service-row div div {
+      width:270px;
+      height: 320px;
+      margin: auto;
+      margin-bottom: 20px;
+}
+
+/*------------------service section close-------------------*/
+
+
+
+/*-------------------Portfolio section start----------------------*/
+
+.portfolio-row {
+     text-align: center;
+}
+
+/*-------------------Portfolio section close----------------------*/
+
+
+
+
+/*------------------team section start-----------------*/
+
+
+.team-row {
+     padding: 100px 20px;
+     text-align: center;
+
+}
+
+
+.flip-card {
+     margin: auto;
+     margin-bottom: 20px;
+}
+
+/*------------------team section close-----------------*/
+
+
+
+
+
+/*------------------service section2 start-----------------*/
+
+.service-container-2 {
+     height:auto;
+}
+
+.service-row-2 {
+      text-align: center;
+      padding: 100px 20px;
+
+}
+
+.service-row-2 div div {
+     margin: auto;
+     margin-bottom: 20px;
+}
+
+/*------------------service section2 close-----------------*/
+
+
+
+
+/*-------------------Review section start------------------------*/
+
+.review-row {
+     padding: 100px 20px;
+     
+}
+
+.review-row div div {
+     margin: auto;
+     margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
